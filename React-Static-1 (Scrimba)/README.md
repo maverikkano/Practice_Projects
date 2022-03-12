@@ -1,3 +1,5 @@
+![React-Landing Page_v1](https://user-images.githubusercontent.com/25679899/158017473-c8bf40f6-e19b-40db-aceb-fdf5014cee30.png)
+
 # title(){return this.options.title||this.options.name}
 
 Quick start:
