@@ -1,3 +1,4 @@
+![React-Landing Page_v2](https://user-images.githubusercontent.com/25679899/159041393-8c0b162f-5bac-4408-8d4b-90a9fb309d65.png)
 ![React-Landing Page_v1](https://user-images.githubusercontent.com/25679899/158017473-c8bf40f6-e19b-40db-aceb-fdf5014cee30.png)
 
 # title(){return this.options.title||this.options.name}
