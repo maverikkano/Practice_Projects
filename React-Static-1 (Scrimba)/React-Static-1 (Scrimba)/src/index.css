@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ body {
+  background-image: linear-gradient(to bottom right, crimson, crimson,skyblue, blue);
+}
+/*
+.container {
+  width: 350px;
+  border: 1px violet solid;
+  border-radius: 10px;
+}
+
+.profile_pic {
+  height: 317px;
+  width: 317px;
+  left: 116px;
+  top: 44px;    
+
+}
+
+.main {
+  height: 399px;
+  width: 317px;
+  left: 116px;
+  top: 361px;
+  border-radius: 0px;
+  background-color: #1A1B21;
+  color: white;
+}
+
+button {
+  height: 34px;
+  width: 115px;
+  left: 151px;
+  top: 468px;
+  border-radius: 6px;
+  padding: 9px, 13px, 9px, 11px;
+
+}
+
+.footer {
+  
+}
+
+.date {
+  
+}
+
+.fa-brands {
+  
+} */
