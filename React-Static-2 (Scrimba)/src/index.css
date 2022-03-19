@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+.country {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.date{
+  font-weight: bold;
+  font-size: 0.75rem;
+}
+
+.description {
+  font-size: 0.95rem;
+}
+
+.card {
+  border: 0px;
+}
+
+.card :hover {
+  box-shadow: 0 40px 60px -20px rgba(12, 5, 62, 0.15);
+  z-index: 100;
+}
